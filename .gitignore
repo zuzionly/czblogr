@@ -1,7 +1,0 @@
-*.log
-.classpath
-.project
-czblogr-grailsPlugins.iml
-czblogr.iml
-/.idea
-/target
